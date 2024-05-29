@@ -1,13 +1,13 @@
 [
-  {"title": "TDC Erhverv", "url": "/avrik/tdc-erhverv"},
-  {"title": "ABC løtumyndir", "url": "/avrik/yr"},
-  {"title": "VR Føroyar 5.2", "url": "/avrik/vr-foroyar"},
-  {"title": "Hidden Fjord", "url": "/avrik/hiddenfjord"},
-  {"title": "ABC", "url": "/avrik/abc"},
-  {"title": "Tulip", "url": "/avrik/tulip"},
-  {"title": "Hvør Veit?", "url": "/avrik/hvorveit"},
-  {"title": "Sakin", "url": "/avrik/sakin"},
-  {"title": "Alvaró", "url": "/avrik/alvaro"},
+  {"title": "Bleed", "url": "/avrik/bleed"},
   {"title": "EPOS", "url": "/avrik/epos"},
-  {"title": "Bleed", "url": "/avrik/bleed"}
+  {"title": "Alvaró", "url": "/avrik/alvaro"},
+  {"title": "Sakin", "url": "/avrik/sakin"},
+  {"title": "Hvør Veit?", "url": "/avrik/hvorveit"},
+  {"title": "Tulip", "url": "/avrik/tulip"},
+  {"title": "ABC", "url": "/avrik/abc"},
+  {"title": "Hidden Fjord", "url": "/avrik/hiddenfjord"},
+  {"title": "VR Føroyar 5.2", "url": "/avrik/vr-foroyar"},
+  {"title": "ABC løtumyndir", "url": "/avrik/yr"},
+  {"title": "TDC Erhverv", "url": "/avrik/tdc-erhverv"}
 ]
