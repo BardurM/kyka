@@ -1,29 +1,30 @@
-[
-  {"title": "Bleed", "url": "/fo/avrik/bleed"},
-  {"title": "EPOS", "url": "/fo/avrik/epos"},
-  {"title": "Alvaró", "url": "/fo/avrik/alvaro"},
-  {"title": "Sakin", "url": "/fo/avrik/sakin"},
-  {"title": "Hvør Veit?", "url": "/fo/avrik/hvorveit"},
-  {"title": "Tulip", "url": "/fo/avrik/tulip"},
-  {"title": "ABC", "url": "/fo/avrik/abc"},
-  {"title": "Hidden Fjord", "url": "/fo/avrik/hiddenfjord"},
-  {"title": "VR Føroyar 5.2", "url": "/fo/avrik/vr-foroyar"},
-  {"title": "Ýr", "url": "/fo/avrik/yr"},
-  {"title": "ABC løtumyndir", "url": "/fo/avrik/abc-lotumyndir"},
-  {"title": "TDC Erhverv", "url": "/fo/avrik/tdc-erhverv"}
-]
-
-[
-  {"title": "Bleed", "url": "/en/work/bleed"},
-  {"title": "EPOS", "url": "/en/work/epos"},
-  {"title": "Alvaró", "url": "/en/work//alvaro"},
-  {"title": "Sakin", "url": "/en/work/sakin"},
-  {"title": "Who Knows?", "url": "/en/work/whoknows"},
-  {"title": "Tulip", "url": "/en/work/tulip"},
-  {"title": "ABC", "url": "/en/work/abc"},
-  {"title": "Hidden Fjord", "url": "/en/work/hiddenfjord"},
-  {"title": "VR Føroyar 5.2", "url": "/en/work/vr-foroyar"},
-  {"title": "Ýr", "url": "/en/work/yr"},
-  {"title": "ABC Moments", "url": "/en/work/abc-moments"},
-  {"title": "TDC Erhverv", "url": "/en/work/tdc-erhverv"}
-]
+{
+  "fo": [
+    {"title": "Bleed", "url": "/fo/avrik/bleed"},
+    {"title": "EPOS", "url": "/fo/avrik/epos"},
+    {"title": "Alvaró", "url": "/fo/avrik/alvaro"},
+    {"title": "Sakin", "url": "/fo/avrik/sakin"},
+    {"title": "Hvør Veit?", "url": "/fo/avrik/hvorveit"},
+    {"title": "Tulip", "url": "/fo/avrik/tulip"},
+    {"title": "ABC", "url": "/fo/avrik/abc"},
+    {"title": "Hidden Fjord", "url": "/fo/avrik/hiddenfjord"},
+    {"title": "VR Føroyar 5.2", "url": "/fo/avrik/vr-foroyar"},
+    {"title": "Ýr", "url": "/fo/avrik/yr"},
+    {"title": "ABC løtumyndir", "url": "/fo/avrik/abc-lotumyndir"},
+    {"title": "TDC Erhverv", "url": "/fo/avrik/tdc-erhverv"}
+  ],
+  "en": [
+    {"title": "Bleed", "url": "/en/work/bleed"},
+    {"title": "EPOS", "url": "/en/work/epos"},
+    {"title": "Alvaró", "url": "/en/work/alvaro"},
+    {"title": "Sakin", "url": "/en/work/sakin"},
+    {"title": "Who Knows?", "url": "/en/work/whoknows"},
+    {"title": "Tulip", "url": "/en/work/tulip"},
+    {"title": "ABC", "url": "/en/work/abc"},
+    {"title": "Hidden Fjord", "url": "/en/work/hiddenfjord"},
+    {"title": "VR Føroyar 5.2", "url": "/en/work/vr-foroyar"},
+    {"title": "Ýr", "url": "/en/work/yr"},
+    {"title": "ABC Moments", "url": "/en/work/abc-moments"},
+    {"title": "TDC Erhverv", "url": "/en/work/tdc-erhverv"}
+  ]
+}
