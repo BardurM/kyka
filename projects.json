@@ -1,5 +1,6 @@
 {
   "fo": [
+    {"title": "SpaceDays", "url": "/fo/avrik/spacedays"},
     {"title": "Bleed", "url": "/fo/avrik/bleed"},
     {"title": "EPOS", "url": "/fo/avrik/epos"},
     {"title": "Alvaró", "url": "/fo/avrik/alvaro"},
@@ -14,6 +15,7 @@
     {"title": "TDC Erhverv", "url": "/fo/avrik/tdc-erhverv"}
   ],
   "en": [
+    {"title": "SpaceDays", "url": "/en/work/spacedays"},
     {"title": "Bleed", "url": "/en/work/bleed"},
     {"title": "EPOS", "url": "/en/work/epos"},
     {"title": "Alvaró", "url": "/en/work/alvaro"},
