@@ -12,7 +12,11 @@
     {"title": "VR Føroyar 5.2", "url": "/fo/avrik/vr-foroyar"},
     {"title": "Ýr", "url": "/fo/avrik/yr"},
     {"title": "ABC løtumyndir", "url": "/fo/avrik/abc-lotumyndir"},
-    {"title": "TDC Erhverv", "url": "/fo/avrik/tdc-erhverv"}
+    {"title": "TDC Erhverv", "url": "/fo/avrik/tdc-erhverv"},
+    {"title": "Gekkurin", "url": "/fo/avrik/gekkurin"},
+    {"title": "Huldulitt", "url": "/fo/avrik/huldulitt"},
+    {"title": "KakuMiks", "url": "/fo/avrik/kakumiks"},
+    {"title": "KiMs Remix", "url": "/fo/avrik/kims-remix"}
   ],
   "en": [
     {"title": "SpaceDays", "url": "/en/work/spacedays"},
@@ -27,6 +31,10 @@
     {"title": "VR Føroyar 5.2", "url": "/en/work/vr-foroyar"},
     {"title": "Ýr", "url": "/en/work/yr"},
     {"title": "ABC Moments", "url": "/en/work/abc-moments"},
-    {"title": "TDC Erhverv", "url": "/en/work/tdc-erhverv"}
+    {"title": "TDC Erhverv", "url": "/en/work/tdc-erhverv"},
+    {"title": "Gekkurin", "url": "/en/work/gekkurin"},
+    {"title": "Huldulitt", "url": "/en/work/huldulitt"},
+    {"title": "KakuMiks", "url": "/en/work/kakumiks"},
+    {"title": "KiMs Remix", "url": "/en/work/kims-remix"}
   ]
 }
